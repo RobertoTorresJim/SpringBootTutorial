@@ -58,7 +58,6 @@ public class AlumnoRestController {
     public ResponseEntity<String> borraAlumno(@PathVariable int matricula) {
         
         boolean retorno = servicioAlumnos.deleteAlumno(matricula);
-        System.out.println(retorno);
         if(retorno) {
     		return new ResponseEntity<String>("OK", HttpStatus.OK);
     	} else {
