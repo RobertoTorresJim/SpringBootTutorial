@@ -1,0 +1,8 @@
+/home/roberto/workspace/SpringBootTutorial/SpringBootTutorial/src/main/java/mx/uam/tsis/sbtutorial/datos/AlumnoDAOMemoria.java
+/home/roberto/workspace/SpringBootTutorial/SpringBootTutorial/src/main/java/mx/uam/tsis/sbtutorial/datos/AlumnoRepository.java
+/home/roberto/workspace/SpringBootTutorial/SpringBootTutorial/src/main/java/mx/uam/tsis/sbtutorial/negocio/dominio/Alumno.java
+/home/roberto/workspace/SpringBootTutorial/SpringBootTutorial/src/main/java/mx/uam/tsis/sbtutorial/negocio/AlumnoService.java
+/home/roberto/workspace/SpringBootTutorial/SpringBootTutorial/src/main/java/mx/uam/tsis/sbtutorial/Application.java
+/home/roberto/workspace/SpringBootTutorial/SpringBootTutorial/src/main/java/mx/uam/tsis/sbtutorial/servicios/AlumnoRestController.java
+/home/roberto/workspace/SpringBootTutorial/SpringBootTutorial/src/main/java/mx/uam/tsis/sbtutorial/datos/AlumnoDAO.java
+/home/roberto/workspace/SpringBootTutorial/SpringBootTutorial/src/main/java/mx/uam/tsis/sbtutorial/presentacion/AlumnoController.java

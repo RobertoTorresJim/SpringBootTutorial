@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Agrega Alumno</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="estilo.css" />
+</head>
+<body>
+	<p>Nombre:</p>
+	<input id="nombre"><br>
+	<p>Matricula:</p>
+	<input id="matricula">
+	<button type="button" onclick="agregaAlumno()">Agregar</button>
+	<p id="error"></p></form>
+	
+
+	<script>
+	function agregaAlumno() {
+    var nombre;
+	var matricula;
+	nombre = document.getElementById("nombre").value;
+    // obtiene el valor de la matricula del campo
+    matricula = document.getElementById("matricula").value;
+
+    // Valida el rango del valor
+    if (isNaN(matricula) || matricula < 1 || matricula > 1000) {
+    	document.getElementById("error").innerHTML = "Valor de matricula fuera de rango";
+    } else {
+    
+    	location.href = "agregaAlumno?matricula="+matricula+"&nombre="+nombre;
+    }
+}
+</script>
+</body>
+</html>

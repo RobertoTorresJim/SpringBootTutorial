@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "import",
+    "type": "java.lang.String",
+    "description": "A description for 'import'"
+  },
+  {
+    "name": "import",
+    "type": "java.lang.String",
+    "description": "A description for 'import'"
+  },
+  {
+    "name": "private",
+    "type": "java.lang.String",
+    "description": "A description for 'private'"
+  },
+  {
+    "name": "import",
+    "type": "java.lang.String",
+    "description": "A description for 'import'"
+  },
+  {
+    "name": "private",
+    "type": "java.lang.String",
+    "description": "A description for 'private'"
+  },
+  {
+    "name": "private",
+    "type": "java.lang.String",
+    "description": "A description for 'private'"
+  },
+  {
+    "name": "private",
+    "type": "java.lang.String",
+    "description": "A description for 'private'"
+  }
+]}
